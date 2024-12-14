@@ -4,6 +4,7 @@ public class Second {
     public static void main(String[] args) {
 
         System.out.println("hello from second class");
+        System.out.println("More changes here");
     }
 
 }
