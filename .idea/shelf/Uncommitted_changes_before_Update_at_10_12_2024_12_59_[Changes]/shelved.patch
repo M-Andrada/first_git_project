@@ -1,0 +1,15 @@
+Index: src/day01/Hello.java
+===================================================================
+diff --git a/src/day01/Hello.java b/src/day01/Hello.java
+deleted file mode 100644
+--- a/src/day01/Hello.java	(revision 682166237313294ddef8931ef189c96abed863ae)
++++ /dev/null	(revision 682166237313294ddef8931ef189c96abed863ae)
+@@ -1,8 +0,0 @@
+-package day01;
+-
+-public class Hello {
+-    public static void main(String[] args) {
+-
+-        System.out.println("Hello Class");
+-    }
+-}
